@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="110px"
+   viewBox="0 0 1920 110"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="landing-1-shape.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.178125"
+     inkscape:cx="-272.2807"
+     inkscape:cy="55"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Path 3</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Pages"
+     style="fill:#1609c9;fill-opacity:0.08235294;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-3.7368421e-6,20.070177)">
+    <g
+       id="01-SaaS-Application"
+       transform="translate(0,-801)"
+       style="fill:#1609c9;fill-opacity:0.08235294">
+      <g
+         id="Features"
+         transform="translate(-132,738)"
+         style="fill:#1609c9;fill-opacity:0.08235294">
+        <path
+           d="M 96.833534,0 V 25.563276 C -39.253514,75.155258 -31.900961,97.181043 118.89119,91.640633 345.07942,83.330016 738.67329,158.62598 1056.0884,120.52123 1373.5035,82.41649 1894.3422,25.765878 2074,99.575313 v 55.380457 c -977.5544,24.05897 -1629.25734,24.05897 -1955.10881,0"
+           id="Path-3"
+           style="fill:#1609c9;fill-opacity:0.08235294"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
