@@ -862,7 +862,7 @@ CONTENT OFFER
 .grid-wrapper{
   display: grid;
   gap: 20px;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   padding-top: 30px;
 }
 
@@ -876,7 +876,7 @@ CONTENT OFFER
           box-shadow: 0 12px 24px rgba(22, 9, 201, 0.082);
 }
 .box:hover{
-  width: 93%;
+  width: 95%;
   /* -ms-transform: rotate(-3deg);
   -webkit-transform: rotate(-3deg);
   -moz-transform: rotate(-3deg);
@@ -1157,6 +1157,11 @@ CONTENT OFFER
 
 .footer-social-list li {
   margin-right: 18px;
+}
+
+.footer-social-list p {
+  margin-right: 18px;
+  color: #fff;
 }
 
 .footer-list p {
