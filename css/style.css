@@ -869,20 +869,20 @@ CONTENT OFFER
 .box{
   margin: 20px;
   border-radius: 2%;
-  transition-property: width;
+  /* transition-property: width;
   transition-duration: .2s, 1s;
   transition-timing-function: linear ease-in-out;
   -webkit-box-shadow: 0 12px 24px rgba(22, 9, 201, 0.082);
-          box-shadow: 0 12px 24px rgba(22, 9, 201, 0.082);
+          box-shadow: 0 12px 24px rgba(22, 9, 201, 0.082); */
 }
-.box:hover{
+/* .box:hover{
   width: 95%;
   /* -ms-transform: rotate(-3deg);
   -webkit-transform: rotate(-3deg);
   -moz-transform: rotate(-3deg);
   -o-transform: rotate(-3deg);
   transform: rotate(-3deg); */
-}
+} */
 .box img{
   width: 100%;
 }
